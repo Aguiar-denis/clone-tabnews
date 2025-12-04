@@ -1,2 +1,2 @@
 # clone-tabnews
-Conteúdo de aprendizado da plataforma Curso.dev, aperfeiçoando meu conhecimento no mundo da programação.
+Implementação do https://www.tabnews.com.br/ para o https://curso.dev
