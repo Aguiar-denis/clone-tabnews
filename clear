@@ -1,0 +1,56 @@
+[33mcommit cc1e19a1cef0aa5cbc0846b9a8b71156d12a9dcc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Denis Aguiar <contatodenisaguiar@gmail.com>
+Date:   Thu Dec 4 18:03:53 2025 -0300
+
+    adiciona o arquivo pages
+
+ pages/index.js | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
+
+[33mcommit fd80bc246579c0a1b7bf82f5a193445bd0873da4[m
+Author: Denis Aguiar <contatodenisaguiar@gmail.com>
+Date:   Thu Dec 4 18:01:30 2025 -0300
+
+    adiciona o arquivo package.json-package-lock.json
+
+ package-lock.json | 457 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ package.json      |  16 [32m+++[m
+ 2 files changed, 473 insertions(+)
+
+[33mcommit 785a4b97d3c5438122e8db784905bfb379d03261[m
+Author: Denis Aguiar <contatodenisaguiar@gmail.com>
+Date:   Thu Dec 4 17:52:35 2025 -0300
+
+    adiciona arquivo .nvmrc
+
+ .nvmrc | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 0336bb78d6dfa3a222480cde50191a8d0ef4cd0d[m
+Author: Denis Aguiar <contatodenisaguiar@gmail.com>
+Date:   Thu Dec 4 17:41:20 2025 -0300
+
+    Update project description in README.md
+    
+    Atualizando mensagem do README
+
+ README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 5c63a4ac4c0e50fed6a1825430d19f5cea159a23[m
+Author: Denis Aguiar <contatodenisaguiar@gmail.com>
+Date:   Thu Dec 4 15:50:30 2025 -0300
+
+    adiciona o arquivo .gitignore
+
+ .gitignore | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit 590ea5f154489a30f28d444c7a7dd3bbe91f7d0f[m
+Author: Denis Aguiar <contatodenisaguiar@gmail.com>
+Date:   Sun Nov 30 18:24:02 2025 -0300
+
+    Initial commit
+
+ README.md | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
